@@ -1,7 +1,10 @@
+To view the problem, please open the triangle_puzzle.pdf file included in this directory
+------------------------------------------------------------------------------------------------------------------------------
+
+
 I implemented this as the O(N) time complexity by using the hashMap to store the previous computed node's sum in order to avoid traversing its child again.
 I also avoid creating any extra spaces for storing extra data structure.  Hopefully, this is the fastest and the most efficient algorithm for this problem.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 
 TO INSTALL and build and run:
